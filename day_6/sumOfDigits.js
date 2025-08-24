@@ -13,5 +13,5 @@ function sumCalculator(number) {
   });
   return sum;
 }
-let nums = 23;
+let nums = 10;
 console.log(sumCalculator(nums));
